@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1518349412 source:d:\exo_c\snake_c\jeu snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
